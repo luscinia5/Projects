@@ -1,0 +1,47 @@
+File Was Not Read - Backup File Was Read Instead
+家 うち(uchi) house (the actual, physical house)
+家 いえ(ie) house (as in "family," whatever "feels" like home)
+居間 いま(ima)　living room (western style)
+部屋 へや(heya) room
+お風呂 おふろ(ofuru) bathroom
+トイレ といれ(toire) toilet
+天井 てんじょう(tennjou) ceiling
+屋根裏 やねうら(yaneura) attic
+玄関 げんかん(genkan) entrance
+ドア どあ(doa) door
+窓 まど(mado) window
+床 ゆか(yuka) floor
+壁 かべ(kabe) wall
+布団 ふとん(futon) futon
+毛布 もうふ(moufu) blanket
+椅子 いす(isu) chair
+机 つくえ(tukue) desk
+家具 かぐ(kagu) furniture
+洗濯機 せんたくき(sentakuki) washing machine
+電子レンジ でんしれんじ(denshirenji) microwave
+冷蔵庫 れいぞうこ(reizouko) refrigerator
+掃除機 そうじき(soujiki) vacuum cleaner
+枕 まくら(makura) pillow
+テレビ てれび(terebi) television
+パソコン ぱそこん(pasokon) personal computer
+戸棚 とだな(todana) cupboard
+鏡 かがみ(kagami) mirror
+ラジオ らじお(rajio) radio
+流し ながし(nagashi) sink
+電話 でんわ(denwa) telephone
+電気製品 でんきせいひん(denkiseihin) electronic goods
+時計 とけい(tokei) clock
+冷凍庫 れいとうこ(reitouko) freezer
+炊飯器 すいはんき(suihanki) rice cooker
+台所用品 だいどころようひん(daidokoroyouhin) kitchenware
+台所 だいどころ(daidokoro) kitchen
+車庫 しゃこ(shako) garage
+ベランダ べらんだ(beranda) balcony
+廊下 ろうか(rouka) corridor
+階段 かいだん(kaidan) stairs
+押入れ おしいれ(oshiire) closed
+絨毯 じゅうたん(juutan) carpet
+ハンガー はんがあ(hangaa) hanger
+ゴミ箱 ごみばこ(gomibako) garbage can
+箒 ほうき(houki) broom
+箸 はし(hashi) chopsticks
