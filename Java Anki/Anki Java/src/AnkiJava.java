@@ -45,16 +45,7 @@ public class AnkiJava {
         // auto = false;
 
         System.out.println("Welcome to the Anki Ripoff!!");
-
-        // FUCKING KEEP THESE IN CASE SHIT GOES DOWN WITH THE WHILE LOOP
-        // displayDecks();
-        // String input = playerInput(keyboard, true); // case sensitive is true
-        // if (input.equals("add")) {
-        //     startAdding(keyboard);
-        //     // is there a way to not repeat the next two lines of code? 
-        //     displayDecks();
-        //     input = playerInput(keyboard, true); // case sensitive is true
-        // }
+        
         String input;
         do {
             displayDecks();
@@ -215,7 +206,6 @@ public class AnkiJava {
                     keepAdding = false;
                 }
             } else {
-                // lmao, wrong input
                 System.out.println("Sorry, that's not a valid input. Please try again.");
             }
         }
@@ -241,10 +231,8 @@ public class AnkiJava {
                 + "vocabulary of the Japanese word");
         String def = keyboard.nextLine();
 
-        // use the fucking constructor you dumbass
         JPWord newWord = new JPWord(word, def, STARTING_FREQ, furigana);
         japWords.add(newWord);
-        // return newWord;
     }
 
     /**
@@ -274,7 +262,6 @@ public class AnkiJava {
             String engDef = fileScanner.nextLine();
             JPWord newWord = new JPWord(japWord, engDef, STARTING_FREQ, furigana);
             newJapWords.add(newWord);
-            // System.out.println(newWord.toString());
         }
         System.out.println();
         newDeck.put(deckName, newJapWords);
@@ -313,4 +300,5 @@ public class AnkiJava {
         }
         return result;
     }
+
 }
